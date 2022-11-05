@@ -1,2 +1,3 @@
-# Home town landing page
+# Hometown landing page
+
  She codes home town landing page challenge
